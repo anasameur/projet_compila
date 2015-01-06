@@ -1,5 +1,8 @@
 /---------------------liste des commande hbase---------------------/
 
+
+
+bbbdsjsjdfjhgsdf
 1-create	/*création d'une table*/
 2-list		/*liste toutes les tables de la base de donnée*/
 3-put		/*la créartion de cellules de valeur && insertion des valeurs */
