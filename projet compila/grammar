@@ -1,0 +1,3 @@
+CREATE : create ' idf ' , ' idf ' list_column_family
+list_column_family  ,' idf ' list_column_family | epsilon
+ 
